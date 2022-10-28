@@ -1,0 +1,20 @@
+{
+  "name": "balanced-parentheses",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savkaoleg/balanced-parentheses.git"
+  },
+  "author": "Savka Oleg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/savkaoleg/balanced-parentheses/issues"
+  },
+  "homepage": "https://github.com/savkaoleg/balanced-parentheses#readme"
+}
